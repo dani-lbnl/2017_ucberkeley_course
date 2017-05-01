@@ -5,8 +5,21 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-of-brain-circuits/
 
 ## Outline:
-- 
+- Image format and metadata
+- Image enhancement and filtering
+- Image statistics
+- Image segmentation: super-pixel to object
+- Object description
+- Object classification
 
 ## References:
+- Burger et al, Digital Image Processing, 2007 [sample](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
 
 ## Links:
+- [ImageJ/Fiji](https://fiji.sc/)
+- [Python](https://www.continuum.io/downloads)
+    - Scipy for [images](http://www.scipy-lectures.org/advanced/image_processing/index.html)
+    - [Scikit-image]()
+    - [Free books](http://pythonbooks.revolunet.com/)
+- [R](http://cran.r-project.org/)
+- [TomViz](http://www.tomviz.org/)
