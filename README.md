@@ -11,6 +11,7 @@ http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-
 - Image segmentation: super-pixel to object
 - Object description
 - Object classification
+- Object visualization
 
 ## References:
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
