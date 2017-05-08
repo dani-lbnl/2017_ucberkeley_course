@@ -24,3 +24,4 @@ http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-
     - [Free books](http://pythonbooks.revolunet.com/)
 - [R](http://cran.r-project.org/)
 - [TomViz](http://www.tomviz.org/)
+- [Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
