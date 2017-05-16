@@ -13,10 +13,12 @@ http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-
 - Object classification
 - Object visualization
 
-## References:
+## Books/papers:
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
+- Goodfellow, Bengio, Courville [[book]](https://github.com/HFTrader/DeepLearningBook)
+- Ushizima in [[brain]]() [[neuron]]() [[cervical cell]]() [[ceramics]]()
 
-## Links:
+## Software:
 - [ImageJ/Fiji](https://fiji.sc/)
 - [Python](https://www.continuum.io/downloads)
     - Scipy for [images](http://www.scipy-lectures.org/advanced/image_processing/index.html)
