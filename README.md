@@ -16,7 +16,8 @@ http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-
 ## Books/papers:
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
 - Goodfellow, Bengio, Courville [[book]](https://github.com/HFTrader/DeepLearningBook)
-- Ushizima in [[brain]]() [[neuron]]() [[cervical cell]]() [[ceramics]]()
+- Other Machine Learning [[books]](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
+- Ushizima in [[brain]](http://www.cv-foundation.org//openaccess/content_cvpr_2016_workshops/w15/papers/Alegro_Multimodal_Whole_Brain_CVPR_2016_paper.pdf) [[neuron]](http://www.sciencedirect.com/science/journal/01650270/282) [[cervical cell]](https://www.ncbi.nlm.nih.gov/pubmed/26800556) [[ceramics]]()
 
 ## Software:
 - [ImageJ/Fiji](https://fiji.sc/)
@@ -26,4 +27,3 @@ http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-
     - [Free books](http://pythonbooks.revolunet.com/)
 - [R](http://cran.r-project.org/)
 - [TomViz](http://www.tomviz.org/)
-- [Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
