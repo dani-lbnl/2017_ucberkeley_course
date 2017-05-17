@@ -29,4 +29,4 @@ http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-
 - [TomViz](http://www.tomviz.org/)
 
 ## Datasets
-- [Neurons/fluorescence](https://drive.google.com/open?id=0B_TLOw35QkMcd0ktSDdXSmhwS2s)
+- [Neurons/Immunofluorescence](https://drive.google.com/open?id=0B_TLOw35QkMcd0ktSDdXSmhwS2s)
