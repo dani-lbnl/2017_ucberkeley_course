@@ -1,7 +1,7 @@
 # Course on Image Analysis and Machine Learning for Microscopy
 ## Lecturer: [Dani Ushizima](http://vis.lbl.gov/~daniela), Ph.D.
 ## Venue: 2017 UC Berkeley Brain Mic [4d-advanced-microscopy-of-brain-circuits](http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-of-brain-circuits/)
-The Zeiss Berkeley Brain Microscopy Innovation Center at the University of California, Berkeley offers an annual course on state-of-the-art optical tools, imaging systems, and analysis methods that are being developed for the study of neuronal circuits. The intensive week-long course includes training in the theory and practice of emerging BRAIN Initiative neurotechnologies. This course targets the main steps to develop a end-to-end pipeline/workflow for image understanding. Slides for [DOWNLOAD](http://vis.lbl.gov/~daniela)
+The Zeiss Berkeley Brain Microscopy Innovation Center at the University of California, Berkeley offers an annual course on state-of-the-art optical tools, imaging systems, and analysis methods that are being developed for the study of neuronal circuits. The intensive week-long course includes training in the theory and practice of emerging BRAIN Initiative neurotechnologies. This course targets the main steps to develop a end-to-end pipeline/workflow for image understanding. Slides for [DOWNLOAD](http://vis.lbl.gov/~daniela).
 
 ## Outline:
 - Image format and metadata
@@ -16,7 +16,7 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
 - Goodfellow, Bengio, Courville [[book]](https://github.com/HFTrader/DeepLearningBook)
 - Other Machine Learning [[books]](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
-- Ushizima in [[brain]](http://www.cv-foundation.org//openaccess/content_cvpr_2016_workshops/w15/papers/Alegro_Multimodal_Whole_Brain_CVPR_2016_paper.pdf) [[neuron]](http://www.sciencedirect.com/science/journal/01650270/282) [[cervical cell]](https://www.ncbi.nlm.nih.gov/pubmed/26800556) [[ceramics]]()
+- Ushizima in [[brain]](http://www.cv-foundation.org//openaccess/content_cvpr_2016_workshops/w15/papers/Alegro_Multimodal_Whole_Brain_CVPR_2016_paper.pdf) [[neuron]](http://www.sciencedirect.com/science/journal/01650270/282) [[cervical cell]](https://www.ncbi.nlm.nih.gov/pubmed/26800556) [[ceramics]](https://www.researchgate.net/profile/Robert_Ritchie/publication/308042053_IDEAL_Images_Across_Domains_Experiments_Algorithms_and_Learning/links/57da247a08ae601b39b16ac5/IDEAL-Images-Across-Domains-Experiments-Algorithms-and-Learning.pdf?origin=publication_detail)
 
 ## Software:
 - [ImageJ/Fiji](https://fiji.sc/)
