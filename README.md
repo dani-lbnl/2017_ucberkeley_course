@@ -20,11 +20,14 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 
 ## Software:
 - [ImageJ/Fiji](https://fiji.sc/)
+    - Macro [manual](https://imagej.nih.gov/ij/docs/macro_reference_guide.pdf)
 - [Python](https://www.continuum.io/downloads)
     - Scipy for [images](http://www.scipy-lectures.org/advanced/image_processing/index.html)
-    - [Scikit-image]()
+    - [Scikit-image](http://scikit-image.org/)
     - [Free books](http://pythonbooks.revolunet.com/)
 - [R](http://cran.r-project.org/)
+    - EBImage [package](http://www.bioconductor.org/packages/release/bioc/html/EBImage.html)
+    - Medical image [analysis](https://cran.r-project.org/web/views/MedicalImaging.html)
 - [TomViz](http://www.tomviz.org/)
 
 ## Datasets
