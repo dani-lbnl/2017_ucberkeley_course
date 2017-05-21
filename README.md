@@ -19,7 +19,8 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
     - [Jupyter notebook]()
     - [Azure jupyter notebook](https://notebooks.azure.com/n/R5nUKZBSgU0/notebooks/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
 - [R](http://cran.r-project.org/)
-    - [Script]()
+    - [Image-centric script]()
+    - [Mining script]()    
 
 ## Books/papers:
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
@@ -37,6 +38,7 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 - [R](http://cran.r-project.org/)
     - EBImage [package](http://www.bioconductor.org/packages/release/bioc/html/EBImage.html)
     - Medical image [analysis](https://cran.r-project.org/web/views/MedicalImaging.html)
+    - Rattle [data mining](http://rattle.togaware.com/)
 - [TomViz](http://www.tomviz.org/)
 
 ## Datasets
