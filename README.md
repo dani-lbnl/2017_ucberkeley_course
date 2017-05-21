@@ -12,6 +12,15 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 - Object classification
 - Object visualization
 
+## Code:
+- [ImageJ/Fiji](https://fiji.sc/)
+    - [Macro]()
+- [Python](https://www.continuum.io/downloads)
+    - [Jupyter notebook]()
+    - [Azure jupyter notebook](https://notebooks.azure.com/n/R5nUKZBSgU0/notebooks/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
+- [R](http://cran.r-project.org/)
+    - [Script]()
+
 ## Books/papers:
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
 - Goodfellow, Bengio, Courville [[book]](https://github.com/HFTrader/DeepLearningBook)
