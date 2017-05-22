@@ -1,7 +1,7 @@
-# Course on Image Analysis and Machine Learning for Microscopy
-## Lecturer: [Dani Ushizima](http://vis.lbl.gov/~daniela), Ph.D.
+# Image Analysis & Machine Learning for Microscopy Course
 ## Venue: 2017 UC Berkeley Brain Microscopy
-### [4d-advanced-microscopy-of-brain-circuits](http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-of-brain-circuits/)
+- Lecturer: [Dani Ushizima](http://vis.lbl.gov/~daniela), Ph.D.
+- [4d-advanced-microscopy-of-brain-circuits](http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-of-brain-circuits/)
 The Zeiss Berkeley Brain Microscopy Innovation Center at the University of California, Berkeley offers an annual course on state-of-the-art optical tools, imaging systems, and analysis methods that are being developed for the study of neuronal circuits. The intensive week-long course includes training in the theory and practice of emerging BRAIN Initiative neurotechnologies. This course targets the main steps to develop a end-to-end pipeline/workflow for image understanding. Slides for [DOWNLOAD](http://vis.lbl.gov/~daniela).
 
 ## Outline:
