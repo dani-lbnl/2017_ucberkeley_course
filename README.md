@@ -3,9 +3,9 @@
 - Venue: 2017 UC Berkeley Brain Microscopy
 - [4d-advanced-microscopy-of-brain-circuits](http://neuroscience.berkeley.edu/courses/brainmic-course-4d-advanced-microscopy-of-brain-circuits/)
 
-The Zeiss Berkeley Brain Microscopy Innovation Center at the University of California, Berkeley offers an annual course on state-of-the-art optical tools, imaging systems, and analysis methods that are being developed for the study of neuronal circuits. The intensive week-long course includes training in the theory and practice of emerging BRAIN Initiative neurotechnologies. This course targets the main steps to develop a end-to-end pipeline/workflow for image understanding. Slides for [DOWNLOAD](http://vis.lbl.gov/~daniela).
+The Zeiss Berkeley Brain Microscopy Innovation Center at the University of California, Berkeley offers an annual course on state-of-the-art optical tools, imaging systems, and analysis methods that are being developed for the study of neuronal circuits. The intensive week-long course includes training in the theory and practice of emerging BRAIN Initiative neurotechnologies. This course targets the main steps to develop a end-to-end pipeline/workflow for image understanding. Lecture slides: [DOWNLOAD](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/lecture/ZeissMicroscopyCenter2017_DaniUshizima_lecture_FULL.pdf).
 
-## Outline:
+## [Outline:](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/lecture/ZeissMicroscopyCenter2017_DaniUshizima_lecture_FULL.pdf)
 - Image format and metadata
 - Image enhancement and filtering
 - Image statistics
@@ -18,7 +18,7 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 - [ImageJ/Fiji](https://fiji.sc/)
     - [Our macro](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/code/MacroFiji.ijm)
 - [Python](https://www.continuum.io/downloads)
-    - [Our Jupyter notebook](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/code/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
+    - [Our Jupyter notebook](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/code/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb) [pdf](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/lecture/ZeissMicroscopyCenter2017_DaniUshizima_lecture_python.pdf)
     - [Our Azure jupyter notebook](https://notebooks.azure.com/n/R5nUKZBSgU0/notebooks/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
 - [R](http://cran.r-project.org/)
     - [Image-centric script]()
