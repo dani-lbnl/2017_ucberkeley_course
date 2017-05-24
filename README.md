@@ -16,13 +16,13 @@ The Zeiss Berkeley Brain Microscopy Innovation Center at the University of Calif
 
 ## Code:
 - [ImageJ/Fiji](https://fiji.sc/)
-    - [Macro]()
+    - [Our macro](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/code/MacroFiji.ijm)
 - [Python](https://www.continuum.io/downloads)
-    - [Jupyter notebook]()
-    - [Azure jupyter notebook](https://notebooks.azure.com/n/R5nUKZBSgU0/notebooks/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
+    - [Our Jupyter notebook](https://github.com/dani-lbnl/2017_ucberkeley_course/blob/master/code/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
+    - [Our Azure jupyter notebook](https://notebooks.azure.com/n/R5nUKZBSgU0/notebooks/ZeissMicroscopyCenter2017_DaniUshizima_lecture.ipynb)
 - [R](http://cran.r-project.org/)
     - [Image-centric script]()
-    - [Mining script]()    
+    - [Mining script]()
 
 ## Books/papers:
 - Burger et al, Digital Image Processing, 2007 [[sample]](https://imagingbook.files.wordpress.com/2013/06/burgerburgeen20071104_ijreference_letter.pdf)
