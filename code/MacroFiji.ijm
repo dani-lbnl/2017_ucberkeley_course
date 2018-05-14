@@ -1,3 +1,7 @@
+/*
+ * Exercising cell analysis
+ * This example illustrates the result of applying different methods to neuron segmentation
+ */
 run("Show Info...");
 run("Properties...");
 run("Split Channels");
