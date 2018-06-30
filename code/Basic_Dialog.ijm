@@ -73,6 +73,8 @@ function processImageUsingIrisAlgorithm(){
 	print("\\Clear"); //Clean up before starting putting new values 
 	print("Your code here");
 	run("Set... ", "zoom=50"); 
-	run("Tile");
+	param1 = 1976;
+	param2 = 2001;
+	saveAs("Tiff", outputdir+"PotentialResult_"+param1+"_"+param2+"_.tif");
 }	
 
