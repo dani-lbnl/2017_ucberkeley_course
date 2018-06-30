@@ -1,8 +1,18 @@
+/*
+ * Example of interactive dialog:
+ * 1. opens an image, 
+ * 2. catches the path it is, 
+ * 3. create a directory named results, 
+ * 4. save new results there
+ */
+
+ //Global variables
  var separator = File.separator; // it will run on Windows
  var inputdir;
  var outputdir;
  var parts;
 
+//Macro driver
 macro "Iris_macro [F5]" { 
  run("Close All");
  start = getTime;	
