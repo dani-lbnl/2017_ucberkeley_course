@@ -4,6 +4,8 @@
  * 2. catches the path it is, 
  * 3. create a directory named results, 
  * 4. save new results there
+ * 
+ * Created: 06/29/18 by Dani Ushizima
  */
 
  //Global variables
@@ -31,11 +33,11 @@ macro "Iris_macro [F5]" {
  parts=split(fname,".");
  n=lengthOf(parts[0]); //detected the prefix
 
- processImageUsingIrisAlgorithm();	
+ processImageUsingIrisAlgorithm();	//1. does something
  
- printScreen();
+ printScreen();		//2. print results on the screen
  
- print2File();
+ print2File();		//3. print results in a file: you might want to comment it until you know the algorithms are doing what you want
   	    	  
  
  end=getTime;
