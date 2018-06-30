@@ -34,6 +34,7 @@ macro "Iris_macro [F5]" {
  
 }
 
+//------------------------------------------------------MY functions downhere-------
 function printScreen(){
 	print("Your input directory is:"+inputdir);
  	print("Your output directory is:"+outputdir);
@@ -42,7 +43,7 @@ function printScreen(){
 
 function print2File(){
 	nameOfNewFile = outputdir+separator+"textualResults.txt"
-	if (File.exists(nameOfNewFile)) exit("Unable to create file, file exists!!!"); //make sure you are not going to be overwriting files, comment this if you don't care
+	if (File.exists(nameOfNewFile)) exit("Unable to create file, file exists!!!"); //make sure you are not going to be overwriting files, you can change to create nameOfNewFile
 	f = File.open(nameOfNewFile); // Settings from the ui are saved in the new seg folder in the folder where all the data files are contained.  
   	print(f,"Your input directory is:"+inputdir);
  	print(f,"Your output directory is:"+outputdir);
