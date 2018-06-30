@@ -35,12 +35,18 @@ macro "Iris_macro [F5]" {
 }
 
 //------------------------------------------------------MY functions downhere-------
+/*
+ * Print info in the log window
+ */
 function printScreen(){
 	print("Your input directory is:"+inputdir);
  	print("Your output directory is:"+outputdir);
  	print("Files start with:"+parts[0]);
 }
 
+/*
+ * Print values to a file
+ */
 function print2File(){
 	nameOfNewFile = outputdir+separator+"textualResults.txt"
 	if (File.exists(nameOfNewFile)) exit("Unable to create file, file exists!!!"); //make sure you are not going to be overwriting files, you can change to create nameOfNewFile
@@ -52,6 +58,7 @@ function print2File(){
 }
 
 function processImageUsingIrisAlgorithm(){
+	print("\\Clear"); //Clean up before starting putting new values 
 	print("Your code here");
 	run("Set... ", "zoom=50"); 
 	run("Tile");
