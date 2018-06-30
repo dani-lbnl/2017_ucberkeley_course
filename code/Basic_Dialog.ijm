@@ -39,7 +39,7 @@ macro "Iris_macro [F5]" {
  
  print2File();		//3. print results in a file: you might want to comment it until you know the algorithms are doing what you want
   	    	  
- 
+ //Show how long your pipeline takes to run
  end=getTime;
  print("Time of processing=" + d2s(end-start,2));
  showMessage("Demorou "+ d2s(end-start,2)+"milisegundos");
