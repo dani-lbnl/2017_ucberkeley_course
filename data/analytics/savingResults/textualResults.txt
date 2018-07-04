@@ -1,0 +1,3 @@
+Your input directory is:/Users/dani/Dropbox/prog/Apps_IDEAL/tutorials/2017_ucberkeley_course_ZeissCenter/data/images/
+Your output directory is:/Users/dani/Dropbox/prog/Apps_IDEAL/tutorials/2017_ucberkeley_course_ZeissCenter/data/images/resultsIris/
+Files start with:VisPhenixParaview
