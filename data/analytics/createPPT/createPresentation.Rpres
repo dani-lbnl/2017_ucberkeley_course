@@ -1,0 +1,30 @@
+Create a Presentation automatically
+========================================================
+author: Dani Ushizima
+date: 06/29/18
+autosize: true
+
+Topics
+========================================================
+
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+path = "/Users/dani/Dropbox/prog/Apps_IDEAL/tutorials/2017_ucberkeley_course_ZeissCenter/data/images/resultsIris/"
+a = read.csv( paste(path,"Results.csv",sep="") )
+summary(a)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+hist(a$Area,60)
+```
